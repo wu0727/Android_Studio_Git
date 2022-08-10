@@ -31,4 +31,9 @@
         android:layout_marginBottom="16dp"
         app:srcCompat="@android:drawable/ic_dialog_email" />
 
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
